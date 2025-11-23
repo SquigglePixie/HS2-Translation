@@ -7,7 +7,7 @@ English fan translation project for Honey Select 2. The translations are applied
 - [BepInEx 5.4](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.8)
 - [BepisPlugins for HS2](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
-- [HS2_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)
+- [HS2_TextResourceRedirector](https://gitgoon.dev/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)
 - [HS2_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) (required to see subtitles)
 - [HS2_TranslationHelper.v1.1](https://github.com/GeBo1/GeBoPlugins/releases/tag/r16) (Optional, but recommended. Translates Japanese names into the Western alphabet without trying to translate into English avoiding mistakes like 悟飯=Food instead of 悟飯=Gohan).
 - [HS2_TranslationCacheCleaner](https://github.com/GeBo1/GeBoPlugins#translationcachecleaner) (optional, but recommended)
@@ -107,7 +107,7 @@ The file `zz_machineTranslation.txt` can only have the translation lines that ar
 The `assets` folder inside of `Bepinex\Translation\en\RedirectedResources` can be compressed into a .zip archive to be read by the game (simply right-click on the assets folder and then compress to .zip). Uncompressed files under `assets` are also still loaded. The game has to be restarted in order to see updated translations.
 
 
-The plugin [TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated.
+The plugin [TextResourceRedirector](https://gitgoon.dev/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated.
 
 ### Structure of the "RedirectedResources" directory
 
