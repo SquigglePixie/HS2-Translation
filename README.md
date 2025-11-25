@@ -8,7 +8,7 @@ English fan translation project for Honey Select 2. The translations are applied
 - [BepisPlugins for HS2](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 - [HS2_TextResourceRedirector](https://gitgoon.dev/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)
-- [HS2_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) (required to see subtitles)
+- [HS2_Subtitles](https://gitgoon.dev/IllusionMods/KK_Plugins#subtitles) (required to see subtitles)
 - [HS2_TranslationHelper.v1.1](https://github.com/GeBo1/GeBoPlugins/releases/tag/r16) (Optional, but recommended. Translates Japanese names into the Western alphabet without trying to translate into English avoiding mistakes like 悟飯=Food instead of 悟飯=Gohan).
 - [HS2_TranslationCacheCleaner](https://github.com/GeBo1/GeBoPlugins#translationcachecleaner) (optional, but recommended)
 
