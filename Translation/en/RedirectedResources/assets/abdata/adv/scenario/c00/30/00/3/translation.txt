@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-勘違いでしたか、失礼しました。=I'm sorry if I missunderstood.
-そうですか。何かありましたら、お声がけください。=I see. Please let me know if there is anything else I can do for you.
+勘違いでしたか、失礼しました。=Oh, I misunderstood. My apologies.
+そうですか。何かありましたら、お声がけください。=I see. If there's anything I can do for you, please let me know.
 //attitude:favor
-そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=I see. I was happy to talk with you for a little while. Well then.
-私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=I'm glad that you bothered to talk to me.
+そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=I see. It was brief, but I enjoyed talking with you. Take care.
+私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=I'm glad you went out of your way to talk to me when you saw me.
 //attitude:enjoyment
-そうですか、セックスできると思っていたので残念です。=I see. It's a pitty we couldn't have sex.
-では、性欲が高まった際にでも、お声がけください。=Then, let me know when you're in the mood.
+そうですか、セックスできると思っていたので残念です。=I see. I thought we might have sex, so that’s a shame.
+では、性欲が高まった際にでも、お声がけください。=Then come find me when you’re feeling aroused.
 //attitude:aversion
-特にないのでしたら、私はこれで。=If there's nothing in particular, I'll be on my way.
-私も用はないので、失礼致します。=I have no business here either, so I'll excuse myself.
+特にないのでしたら、私はこれで。=If there’s nothing else, I’ll be going.
+私も用はないので、失礼致します。=I have no reason to stay either, so I’ll take my leave.
 //attitude:slavery
-……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=Is your intention to increase my lust by leaving me alone for longer? Then, I'll see you later.
-犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=I was hoping you would fuck me, but it seems that wasn't the case.
+……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=...So that was your plan—to leave me alone and let my lust build? Very well. I’ll see you later.
+犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=I was hoping you’d force yourself on me, but I see you’re not in the mood.
