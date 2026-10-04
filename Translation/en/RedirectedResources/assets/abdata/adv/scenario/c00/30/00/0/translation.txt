@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-CHOICE:おしゃべりしたい=Ask to chat
-CHOICE:Hしたい=Ask for sex
-CHOICE:なんでもない=It's nothing
+CHOICE:おしゃべりしたい=Wanna chat?
+CHOICE:Hしたい=Let's have sex.
+CHOICE:なんでもない=Never mind.
