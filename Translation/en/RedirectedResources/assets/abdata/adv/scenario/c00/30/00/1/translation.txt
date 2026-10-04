@@ -2,21 +2,21 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=You want to talk to me? I'm not sure I have an enjoyable topic, but I understand.
-分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=Very well. As long as you understand that i might not be able to give you witty replies. 
+私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=You’d like to talk? I’m not sure I can offer much in the way of interesting conversation, but all right.
+分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=Very well. I may not have the most clever things to say, so please bear with me.
 //attitude:favor
-ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=Yes, gladly. What should we talk about? Personally, I'm interested in what you think about love.
-勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=Of course, I'll keep you company. I have a reputation for being a good listner. 
+ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=Yes, gladly. What shall we talk about? Personally, I’d be interested in hearing about your love life.
+勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=Of course. I’d be happy to keep you company. I have a knack for chiming in at just the right moment.
 //attitude:enjoyment
-猥談でしたら、お任せください。=If it's a lewd story, I'll leave it up to you.
-……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=I see, so you like to get excited with obscene stories before having sex. Very well.
+猥談でしたら、お任せください。=If it’s dirty talk, leave it to me.
+……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=So, dirty talk to get in the mood before sex. Very well.
 //attitude:aversion
-ちょうど暇をしていたところでしたので、お付き合いしますよ。=I don't have anything better to do, so I'll keep you company.
-盛り上がるとは到底思えませんが……分かりました。=I doubt it'll be exciting, but...All right.
+ちょうど暇をしていたところでしたので、お付き合いしますよ。=I was just looking for something to do, so I’ll keep you company.
+盛り上がるとは到底思えませんが……分かりました。=I can’t imagine it’ll be very exciting, but...all right.
 //attitude:slavery
-身体ではなく、言葉でコミュニケーションを……分かりました。=You want me to communicate not with my body, but with words. I understand.
-言葉攻めですか、分かりました。=You want to verbally abuse me? Understood.
-CHOICE:親身になって話す=Speak tenderly
-CHOICE:積極的に話す=Speak aggressively
-CHOICE:受け身になって話す=Speak passively
-CHOICE:エッチな話でも=Tell a lewd story
+身体ではなく、言葉でコミュニケーションを……分かりました。=You’d rather communicate with words than with bodies...I understand.
+言葉攻めですか、分かりました。=You want to verbally abuse me? Very well.
+CHOICE:親身になって話す=Talk sympathetically
+CHOICE:積極的に話す=Take the lead
+CHOICE:受け身になって話す=Let them lead
+CHOICE:エッチな話でも=Talk about something naughty
